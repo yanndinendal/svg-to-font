@@ -1,3 +1,6 @@
+Result visible at this address: `http://`*`username`*`.github.io/svg-to-font/`.
+For example: http://cr0ck.github.io/svg-to-font/.
+
 Deployment instructions for `gh-pages` from http://yeoman.io/learning/deployment.html:
 
 > ## Git subtree command
